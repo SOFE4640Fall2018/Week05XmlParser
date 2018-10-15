@@ -12,4 +12,15 @@
         city="New York"
         temperature="15C"
         weather="Cloudy" />
+
+    <location
+        city="New York"
+        temperature="15C"
+        weather="Cloudy" />
+
+    <location
+        city="New York"
+        temperature="15C"
+        weather="Cloudy" />
+
 </weather>
